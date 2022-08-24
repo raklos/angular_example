@@ -1,0 +1,9 @@
+p {
+  color:rgb(0, 255, 0);
+  border: 1px black solid;
+  padding: 5px;
+  background-color: blueviolet;
+  width: 20%;
+  margin-left: 20px;
+
+}
